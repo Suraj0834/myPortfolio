@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import benzo from "../assets/benzo.png";
 import annadata from "../assets/annadata.png";
 import WaveOfFood from "../assets/WaveOfFood.png";
-import JanSankalp from "../assets/JanSankalp.png";
+import JanSankalp from "../assets/janSankalp.png";
 
 const projects = [
   {
